@@ -1,4 +1,4 @@
-const words = 'in one good real one not school set they state number word about after need much open also change dolor sit amet consectetur adipisicing elit. Id vel vitae ipsum commodi earum in, voluptates consequatur ratione! Expedita corrupti ut dolor sit reiciendis tenetur eum provident nobis harum at'.split('');
+const words = 'in one good real one not school set they state number word about after need much open also change dolor sit amet consectetur adipisicing elit. Id vel vitae ipsum commodi earum in, voluptates consequatur ratione! Expedita corrupti ut dolor sit reicilon and go will to school'.split('');
 const wordscount = words.length;
 
 function randomword(){
